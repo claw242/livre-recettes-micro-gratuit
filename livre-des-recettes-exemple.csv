@@ -1,0 +1,4 @@
+numero;date_encaissement;reference_piece;client;nature_prestation_ou_vente;mode_reglement;montant_euros;observations
+1;2026-01-12;F-2026-001;Exemple SARL;Prestation de conseil;virement;450,00;LIGNE D'EXEMPLE : à effacer
+2;2026-01-19;F-2026-002;Client particulier (exemple);Vente en ligne;carte;38,50;LIGNE D'EXEMPLE : à effacer
+3;2026-02-03;F-2026-003;Exemple SAS;Prestation de service;cheque;220,00;LIGNE D'EXEMPLE : à effacer
