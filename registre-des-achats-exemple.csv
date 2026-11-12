@@ -1,0 +1,3 @@
+numero;date_paiement;reference_piece;fournisseur;nature_achat;mode_reglement;montant_euros;observations
+1;2026-01-08;FA-0001;Fournisseur exemple;Marchandises;carte;120,00;LIGNE D'EXEMPLE : à effacer
+2;2026-01-22;FA-0002;Grossiste exemple;Marchandises;virement;310,40;LIGNE D'EXEMPLE : à effacer
